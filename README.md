@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timfilhol96
 - 👀 I’m interested in 🎸, 📊and 🕹️
 - 🌱 I’m currently studying Data Science @Le Wagon Paris
-- 📫 How to reach me @linkedin timothee-filhol
+- 📫 [LinkedIN](https://www.linkedin.com/in/timothee-filhol/)
 
 <!---
 timfilhol96/timfilhol96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
