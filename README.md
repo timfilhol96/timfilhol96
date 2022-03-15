@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timfilhol96
-- 👀 I’m interested in 🎸, 📊and 🕹️
-- 🌱 I’m currently studying Data Science @Le Wagon Paris
+- 👀 I’m interested in 🎸, 📊 and 🕹️
+- 🌱 I have just finished the Data Science bootcamp @Le Wagon Paris
 - 📫 You can reach me on [LinkedIN](https://www.linkedin.com/in/timothee-filhol/)
 
 <!---
