@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **timfilhol9@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AvTNk2dduDsuhUl5hUUMT9znV5Rp](https://1drv.ms/b/s!AvTNk2dduDsuhUl5hUUMT9znV5Rp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
