@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timothée Filhol</h1>
 <h3 align="center">A Junior Data Analyst from France</h3>
 
-- 🔭 I’m currently looking **for a Junior Data Analyst job in Singapore**
+- 🔭 I’m currently looking **for a Junior Data Analyst position in Singapore**
 
 - 🌱 I've just finished **the Data Science bootcamp at Le Wagon Paris**
 
