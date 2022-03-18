@@ -4,7 +4,6 @@
 - 🔭 I’m currently looking **for a Junior Data Analyst position in Singapore**
 - 🚋 I've just finished **the Data Science bootcamp at Le Wagon Paris** Batch #️⃣8️⃣0️⃣2️⃣
 - 🐳 You can have a look at my final project [Deep Dive](https://share.streamlit.io/christiandescodes/lewagon-deepdive-front/app.py)
-- 📫 How to reach me **timfilhol9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
