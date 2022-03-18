@@ -1,11 +1,11 @@
 <h3 align="center">Junior Data Analyst </h3>
 
 - 👋 Hi, I'm Timothée Filhol
-- 🐸 French 
-- 🔭 I’m currently looking for a **Junior Data Analyst** position in Singapore 🇸🇬
+- 🐸 From France 🔵⚪🔴 
+- 🔭 I’m currently looking for a **Junior Data Analyst** position in Singapore!
 - 🚋 I've just finished the **Data Science bootcamp** at [Le Wagon](https://github.com/lewagon) in Paris, Batch #️⃣8️⃣0️⃣2️⃣
 - 🐳 You can have a look at my final project [Deep Dive](https://share.streamlit.io/christiandescodes/lewagon-deepdive-front/app.py)
-- 🔰 Curious about 
+- 💪 I'm **curious** and always eager to **learn** new things and **strengthen** my skills!  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
