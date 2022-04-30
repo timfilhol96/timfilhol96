@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Timothée Filhol
 - 🐸 From France 🔵⚪🔴 
-- 🔭 I’m currently looking for a **Junior Data Analyst** position in **Singapore**!
+- 🔭 I’m currently looking for a **Junior Data Scientist** position in **Singapore**!
 - 🚋 I've just finished the **Data Science bootcamp** at [Le Wagon](https://github.com/lewagon) in Paris, Batch #️⃣8️⃣0️⃣2️⃣
 - 🐳 You can have a look at my final project [Deep Dive](https://share.streamlit.io/christiandescodes/lewagon-deepdive-front/app.py)
 - 💪 I'm **curious** and always eager to **learn** new things and **strengthen** my skills!  
