@@ -2,10 +2,10 @@
 
 - 👋 Hi, I'm Timothée Filhol
 - 🐸 From France 🔵⚪🔴 but living in Singapore 🔴⚪
-- ⚕️ I’m currently working as a **Junior Data Scientist** at [Biofourmis](https://biofourmis.com/) in **Singapore**!
-- 🚋 I've just finished the **Data Science bootcamp** at [Le Wagon](https://github.com/lewagon) in Paris, Batch #️⃣8️⃣0️⃣2️⃣
+- ⚕️ I’m currently working as a **Junior Data Scientist** at [Biofourmis](https://biofourmis.com/)
+- 🚋 **Data Science bootcamp** at [Le Wagon](https://github.com/lewagon) in Paris, Batch #️⃣8️⃣0️⃣2️⃣
 - 🐳 You can have a look at my final project [Deep Dive](https://share.streamlit.io/christiandescodes/lewagon-deepdive-front/app.py)
-- 💪 I'm **curious** and always eager to **learn** new things and **strengthen** my skills!  
+- 💪 I'm **curious**, **persistent**, enjoy **solving problems**, always eager to **learn** new things and **strengthen** my skills 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
