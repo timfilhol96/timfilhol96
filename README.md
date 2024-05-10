@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/timfilhol96">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Timothee+Filhol;Data+Scientist+%7C+Artificial+Intelligence+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Timothee+Filhol;Data+Scientist+%7C+Artificial+Intelligence+Developer;Master's+in+Management+@+ESCP+Business+School" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/timothee-filhol/">
