@@ -1,13 +1,30 @@
-<h3 align="center">Data Scientist | Certified Artificial Intelligence Developer </h3>
+<p align="center">
+<a href="https://github.com/timfilhol96">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Timothee+Filhol;Data+Scientist+%7C+Artificial+Intelligence+Developer" alt="Typing SVG" />
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/timothee-filhol/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:timotheefilhol@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<br/> 
 
-- 👋 Hi, I'm Timothée Filhol
-- 🐸 French 🇫🇷 living in Singapore 🇸🇬
-- I enjoying coding and solving complex problems
+<!-- <a href="https://github.com/timfilhol96">
+    <img src="https://github-readme-stats.vercel.app/api?username=timfilhol96&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+</a> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/timothee-filhol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timothee-filhol" height="30" width="40" /></a>
+<a href="https://github.com/timfilhol96">
+    <img src="https://github-stats-alpha.vercel.app/api?username=timfilhol96&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 </p>
 
-<h3 align="left">Tech stack:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+* 🇫🇷 French Data Scientist in 🇸🇬
+
+* 🤖 Certified Artificial Intelligence Developer ([RNCP35141](https://www.francecompetences.fr/recherche/rncp/35141/))
+
+* ⚕️Former data scientist at [Biofourmis](https://www.biofourmis.com), a Boston-based MedTech company
+
+* 👨🏻‍💻I enjoy coding and solving complex problems
