@@ -25,6 +25,4 @@
 
 * 🤖 Certified Artificial Intelligence Developer ([RNCP35141](https://www.francecompetences.fr/recherche/rncp/35141/))
 
-* ⚕️Data scientist at [Respiree](https://www.respiree.com/), a Singapore-based MedTech company
-
 * 👨🏻‍💻I enjoy coding and solving complex problems
