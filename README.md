@@ -23,6 +23,6 @@
 
 * 🇫🇷 French Data Scientist in 🇸🇬
 
-* 🤖 Certified Artificial Intelligence Developer ([RNCP35141](https://www.francecompetences.fr/recherche/rncp/35141/))
+* 🤖 Certified Artificial Intelligence Developer ([RNCP38616](https://www.francecompetences.fr/recherche/rncp/38616/))
 
 * 👨🏻‍💻I enjoy coding and solving complex problems
