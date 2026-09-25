@@ -1,28 +1,57 @@
-<p align="center">
-<a href="https://github.com/timfilhol96">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Timothee+Filhol;Data+Scientist+%7C+Artificial+Intelligence+Developer;Master's+in+Management+@+ESCP+Business+School" alt="Typing SVG" />
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/timothee-filhol/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:timotheefilhol@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<br/> 
+### Hi, I'm Timothee 👋
 
-<!-- <a href="https://github.com/timfilhol96">
-    <img src="https://github-readme-stats.vercel.app/api?username=timfilhol96&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
+Senior Data Scientist in Singapore. I build machine learning on large-scale time-series data, and I like taking models all the way from a messy dataset to something that holds up under external validation.
 
-<a href="https://github.com/timfilhol96">
-    <img src="https://github-stats-alpha.vercel.app/api?username=timfilhol96&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+- 🔭 Currently at **Respiree**, building predictive monitoring models on continuous sensor streams
+- 📈 Shipped a LightGBM model that beat the incumbent commercial benchmark by **46% on positive predictive value**, using only 4 input signals
+- 🗄️ Built pipelines over a **3.8M-subject dataset** (16.2B time-series records) with SQL and Polars
+- 🧠 Trained transformers, CNNs and ResNets from scratch in PyTorch and TensorFlow
+- 🛠️ Outside work, I build small apps end to end: frontend, backend, deployment
 
-</p>
+---
 
-* 🇫🇷 French Data Scientist in 🇸🇬
+### 🚀 Projects
 
-* 🤖 Certified Artificial Intelligence Developer ([RNCP38616](https://www.francecompetences.fr/recherche/rncp/38616/))
+| Project | What it is | Stack |
+|---|---|---|
+| [**Concertly**](https://concertly.lovable.app/) | Personal concert diary with stats on every show I've been to (68 concerts since 2010). Code is private, the app is live | TanStack Start, Supabase |
+| [**Nutrition Plan**](https://github.com/timfilhol96/nutrition_plan) · [live app](https://nutrition-plan.streamlit.app) | Bilingual (EN/FR) meal planner that hits daily macro targets. Parses free-text ingredients with an LLM and pulls nutrition values from a food database | Python, Streamlit, LLM API |
 
-* 👨🏻‍💻I enjoy coding and solving complex problems
+---
+
+### 📄 Publication
+
+- **Mayo Clinic Proceedings: Innovations, Quality & Outcomes** (2025): external validation of a predictive monitoring model built on continuous sensor data. [Read the paper](https://www.mcpiqojournal.org/article/S2542-4548(25)00074-8/fulltext)
+
+---
+
+### 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+### ✍️ Writing
+
+I write **Alive and Well**, a weekly newsletter on fitness, nutrition and evidence-based health. [Read it on Substack](https://imalivenwell.substack.com/)
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/timothee-filhol)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:timotheefilhol@gmail.com)
+
+<sub>Most of my professional work lives in private repositories. Happy to talk through it in more detail.</sub>
