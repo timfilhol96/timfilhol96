@@ -15,6 +15,7 @@ Senior Data Scientist in Singapore. I build machine learning on large-scale time
 | Project | What it is | Stack |
 |---|---|---|
 | [**Concertly**](https://concertly.lovable.app/) | Personal concert diary with stats on every show I've been to (68 concerts since 2010). Code is private, the app is live | TanStack Start, Supabase |
+| [**Spinsight**](https://spinsight-app.vercel.app/) · [code](https://github.com/timfilhol96/spinsight) | Stats on your Discogs record collection, plus a picker that suggests what to play next based on mood, weather, time of day and listening history. Friends sign in with their own Discogs account, and the whole app takes on the colour of the vinyl pressing you're looking at | TanStack Start, TypeScript, Supabase, Vercel |
 | [**Nutrition Plan**](https://github.com/timfilhol96/nutrition_plan) · [live app](https://nutrition-plan.streamlit.app) | Bilingual (EN/FR) meal planner that hits daily macro targets. Parses free-text ingredients with an LLM and pulls nutrition values from a food database | Python, Streamlit, LLM API |
 
 ---
@@ -39,6 +40,8 @@ Senior Data Scientist in Singapore. I build machine learning on large-scale time
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
